@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <pgterms:ebook rdf:about="ebooks/68376">
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N2071bd8f48c94389919b114b4ae76492">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Popular literature -- Periodicals</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68376.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T13:00:11.961549</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147662</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndf630c28d5b04c9c974702dc6c1a71e9">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc508>David Edwards, Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net (Northern Illinois University Digital Library)</pgterms:marc508>
+    <pgterms:marc906>1914</pgterms:marc906>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68376/68376-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N244718370cb74408a5e88bc5e6f24e4f">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89434</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T11:41:37</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6c0f392d7be44f458c9e1f923dccadeb">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <pgterms:marc260>United States :Street &amp; Smaith,1914,copyright 1915.</pgterms:marc260>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68376.kindle.images">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd980f21d66a0493e90d169809987a77c">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T13:00:19.582572</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">690396</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68376.epub.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T13:00:16.108550</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N27b38ebf0a3649db8555f263295769c4">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386654</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">436</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68376/68376-h.zip">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf46aa03c80634935a4d462b96edd764a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">370922</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T11:41:37</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N73193560d685431aa35576500e18dbb0">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc904>https://dimenovels.lib.niu.edu/islandora/object/dimenovels%3A86131#page/1/mode/1up</pgterms:marc904>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-06-22</dcterms:issued>
+    <marcrel:ctb>
+      <pgterms:agent rdf:about="2009/agents/54736">
+        <pgterms:name>Jenkins, Burke</pgterms:name>
+      </pgterms:agent>
+    </marcrel:ctb>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nf7dda1bb57d041a092a1095da74b4131">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Detective and mystery stories, American -- Periodicals</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <pgterms:marc905>20200418182501carter</pgterms:marc905>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/4161">
+        <pgterms:webpage rdf:resource="ebooks/author/1599"/>
+        <pgterms:name>Carter, Nicholas (House name)</pgterms:name>
+        <pgterms:webpage rdf:resource="ebooks/author/43953"/>
+        <pgterms:webpage rdf:resource="ebooks/author/2983"/>
+        <pgterms:alias>Carter, Nick</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68376.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N40dcf946b462418bb357a89b5db0f5dd">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T13:00:11.076515</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">247590</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68376.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6828</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nab3eedc382774fa2b4878df6d291f10f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T13:00:19.766576</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N09ea53f7878b4611b8adf89651cbc460">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68376.txt.utf-8">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nabfd443b64b1474089f05de13098d5b3">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T13:00:10.426521</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231507</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N4158d22f2daf49e0a7aed54a7ccfac50">
+        <rdf:value>PS</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/68376.kindle.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223186</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd8ca2142a025491c9ed9a49a7c3bda22">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T13:00:15.361553</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68376/68376-h/68376-h.htm">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd1eb4cf3d0b94ad0b6ff646b1dfe21c2">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T11:41:13</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">254397</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:tableOfContents>An uncanny revenge; or, Nick Carter and the mind murderer -- Ruby light [commenced].</dcterms:tableOfContents>
+    <dcterms:title>Nick Carter Stories No. 120, December 26, 1914: An uncanny revenge; or, Nick Carter and the mind murderer.</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68376/68376-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T11:41:13</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">231507</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd900723ec214418b9233c0560443f943">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/68376/pg68376.cover.medium.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T13:00:15.568532</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N748403f4384a4be1a9b11ca051a33072">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22024</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/68376/pg68376.cover.small.jpg">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4d7dbb1e70ac4d99ae14a10023fa276f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68376"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-06-22T13:00:15.489537</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3642</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc907>us</pgterms:marc907>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="ebooks/author/1599">
+    <dcterms:description>More titles under Rathborne, St. George</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="ebooks/author/2983">
+    <dcterms:description>More titles under Cox, Stephen Angus Douglas</dcterms:description>
+  </rdf:Description>
+  <rdf:Description rdf:about="ebooks/author/43953">
+    <dcterms:description>More titles under Burton, Frederick R. (Frederick Russell)</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
